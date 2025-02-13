@@ -1,0 +1,54 @@
+Output(Question 1):-
+
+Enter a string: this is a code for string analysis for assignment1 
+Number of vowels in string : 14
+Number of consonants in string : 27
+Number of Digits in string : 1
+Number of Special Characters in string : 0
+
+--------------------------------------------------------------------------------------------------------------------------
+Output(Question 2):-
+
+Enter the number of rows for Matrix :
+3
+Enter the number of columns for Matrix :
+3
+Enter the elements of Matrix 1:
+12 4 5 10 8 21 8 3 14 
+Enter the elements of Matrix 2:
+20 18 9 2 7 11 4 6 15
+Addition:
+32 22 14
+12 15 32
+12 9 29
+Subtraction:
+-8 -14 -4 
+8 1 10
+4 -3 -1
+Multiplication:
+268 274 227
+300 362 493
+222 249 315
+
+-------------------------------------------------------------------------------------------------------------------------
+Output(Question 3):-
+
+
+Create Account:
+Name: Jagdeep
+Account Number: 2348448098228
+Initial Balance: 84472 
+
+Choose an operation: 1. Deposit  2. Withdraw  3. Exit
+2
+Enter withdrawal amount: 35759
+Withdrawal successful! Current Balance: 48713.0
+
+Choose an operation: 1. Deposit  2. Withdraw  3. Exit
+1
+Enter deposit amount: 32472
+Deposit successful! Current Balance: 81185.0
+
+Choose an operation: 1. Deposit  2. Withdraw  3. Exit
+3
+Exiting. Thank you!
